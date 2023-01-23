@@ -100,10 +100,11 @@
 
     .card-text > h1 {
         margin-bottom: 0px;
+        font-size: 1.5rem;
     }
 
     .card-image {
         height: 30%;
     } 
 
-}
+}  
